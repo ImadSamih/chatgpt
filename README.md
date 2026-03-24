@@ -62,9 +62,9 @@ Make sure you have the following installed on your Intel machine:
 
 ## 🎥 How to Install (Video Guide)
 
-For a step-by-step visual demonstration, please watch the installation video below. It covers everything from installing the prerequisites to completing the Intel-specific build.
+For a step-by-step visual demonstration, please watch the installation video by clicking the link below. It covers everything from installing the prerequisites to completing the Intel-specific build.
 
-<video src="./media/gptvideo.mp4" width="100%" controls></video>
+**[▶️ Click Here to Watch the Installation Video](./media/gptvideo.mp4)**
 
 ## 📄 License
 
