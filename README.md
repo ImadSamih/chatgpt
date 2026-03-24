@@ -64,7 +64,7 @@ Make sure you have the following installed on your Intel machine:
 
 For a step-by-step visual demonstration, please watch the installation video by clicking the link below. It covers everything from installing the prerequisites to completing the Intel-specific build.
 
-**[▶️ Click Here to Watch the Installation Video](./media/gptvideo.mp4)**
+**[▶️ Click Here to Watch the Installation Video](https://github.com/ImadSamih/chatgpt/releases/tag/v1.0.0)**
 
 ## 📄 License
 
