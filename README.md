@@ -3,7 +3,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./media/intel-logo.svg" alt="Intel Logo" height="80"/>
 
-  <h1>ChatGPT Desktop App (Intel CPU)</h1>
+  <h1>ChatGPT Macos App For (Intel CPU)</h1>
   <p>A fast, native desktop application for ChatGPT, optimized for Intel-based processors.</p>
 </div>
 
